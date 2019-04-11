@@ -1,10 +1,5 @@
-- [English](README.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
-- [Português Brasileiro](README.pt-br.md)
+
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.in.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [français](README.fr.md) | [العربية](README.ar.md) | [Português Brasileiro](README.pt-br.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [简体中文](README.zh_hans.md) | [繁體中文](README.zh_hant.md) | [Türkçe](README.tr.md) | [বাংলা](README.bn.md)  | [Русский](README.ru.md) | [Polski](README.pl.md) | [Esperanto](README.eo.md) | [Svenska](README.se.md) | [Magyar](README.hu.md) | [Norsk](README.no.md) | [Bahasa Malaysia](README.ms.md) | [ภาษาไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Česky](README.cz.md) | [ئۇيغۇر](README.ug.md) | [Български](README.bg.md) | [Հայերեն](README.am.md) 
 
 # Projeto todos-foram-presos-juntos
 
@@ -18,7 +13,7 @@ while (1) {
 
 Notícias relacionadas ao incidente:
 
-- (Japonês) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japonês) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Inglês) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 Então se isso é considerado um "crime" no Japão. Então vamos ser criminosos e presos!
